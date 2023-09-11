@@ -2,7 +2,7 @@
  * est_actions.c
  *
  *  Created on: 3 août 2023
- *      Author: gege
+ *      Author: gerald HILD
  */
 #include <stdio.h>
 #include <stdlib.h>
